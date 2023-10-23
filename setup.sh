@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# This installation file is a fix for starboundsourcecode/scripts/linux/setup.sh
+
 cd "`dirname \"$0\"`/../.."
 
 mkdir -p dist
